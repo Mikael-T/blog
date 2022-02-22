@@ -41,6 +41,7 @@ function Home({ isAuth }) {
                                             }}
                                         >
                                             🗑
+                                            
                                         </button>
                                     )}
                             </div>
